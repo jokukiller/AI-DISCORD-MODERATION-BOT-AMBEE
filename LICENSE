@@ -2,7 +2,7 @@ Copyright (c) 2025 jokukiller
 
 All Rights Reserved
 
-TERMS AND CONDITIONS
+TERMS AND CONDITIONS FOR AMBEE DISCORD MODERATION BOT
 
 1. VIEWING AND LEARNING
    - You may view, read, and study this source code for educational purposes.
@@ -17,14 +17,19 @@ TERMS AND CONDITIONS
 
 3. PROHIBITED USES
    You may NOT:
-   - Run, execute, or deploy this software for any purpose, commercial or non-commercial.
-   - Use this software in production environments.
-   - Host this software on any server or service.
+   - Run, execute, deploy, or host this software for any purpose, commercial or non-commercial.
+   - Use this software in production environments or on any server.
+   - Create your own instance of this bot.
    - Distribute modified or unmodified versions of this software.
    - Use this software for commercial purposes of any kind.
-   - Create derivative works based on this software for use outside of contributions.
+   - Create derivative works based on this software for deployment or use.
 
-4. NO WARRANTY
+4. OFFICIAL BOT USAGE
+   - The only authorized way to use this bot is through the official hosted 
+     instance available at: https://top.gg/bot/1418185634195050496
+   - Users may invite the official bot to their Discord servers free of charge.
+
+5. NO WARRANTY
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -32,16 +37,15 @@ TERMS AND CONDITIONS
    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-5. ENFORCEMENT
+6. ENFORCEMENT
    Violation of these terms may result in legal action. The copyright holder 
    reserves all rights not explicitly granted in this license.
 
-6. JURISDICTION
+7. JURISDICTION
    This license shall be governed by and construed in accordance with applicable
    copyright laws.
 
-DUAL LICENSING AVAILABLE
-
-For commercial licensing or permission to run this software:
-- Contact: jokukiller on GitHub
-- Custom licensing terms available upon request
+For inquiries about commercial licensing, permission to host, or other questions:
+Contact @jokukiller on GitHub (https://github.com/jokukiller) 
+OR
+Contact jokukiller on Discord (https://discord.gg/89rFga73cC)
