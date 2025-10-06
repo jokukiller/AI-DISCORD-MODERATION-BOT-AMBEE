@@ -1,0 +1,39 @@
+# Build directories - IGNORE THE WHOLE FOLDER
+cmake-build-*/
+build/
+*.out
+
+# Compiled executables
+*.exe
+*.dll
+*.so
+*.a
+*.dylib
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# IDE files (CLion)
+.idea/
+*.iml
+
+# Compiled object files
+*.o
+*.obj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive config files
+main_configured.cpp
+config.ini
+*.key
+*.env
