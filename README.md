@@ -1,9 +1,23 @@
 # 🤖 AI-Powered Discord Moderation Bot
 
 A sophisticated 3-stage AI moderation system for Discord servers that uses multiple AI layers to analyze, verify, and execute moderation actions with minimal false positives.
+## ⚠️ License Notice
 
-## 🌟 Features
+**This software is SOURCE AVAILABLE, not Open Source.**
 
+- ✅ You may **view and learn** from the code
+- ✅ You may **contribute** via pull requests
+- ❌ You may **NOT run, deploy, or host** this software yourself
+- ❌ **NO commercial use** allowed
+
+See [LICENSE](LICENSE) for full terms.
+
+### 🤖 Want to use AMBEE?
+**You can add the official hosted bot to your server FOR FREE:**
+
+👉 **[Invite AMBEE from Top.gg](https://top.gg/bot/1418185634195050496)**
+
+*The code is public for educational purposes and contributions only. To use the bot, please invite the official instance above.*
 ### Core Functionality
 - **3-Stage AI Pipeline**: Multiple AI agents work together to ensure accurate moderation
   - **AI #1**: Fast initial screening for potential violations
