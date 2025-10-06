@@ -81,7 +81,7 @@ sudo apt-get install nlohmann-json3-dev
 
 ### 3. Configure the Bot
 
-Open `discord_moderation_system.cpp` and update the following constants:
+Open `main.cpp` and update the following constants:
 
 ```cpp
 const std::string BOT_TOKEN = "YOUR_DISCORD_BOT_TOKEN_HERE";
