@@ -24,31 +24,77 @@ See [LICENSE](LICENSE) for full terms.
 
 ## 🌟 Features
 
-### Core Functionality
-- **3-Stage AI Pipeline**: Multiple AI agents work together to ensure accurate moderation
-  - **AI #1**: Fast initial screening for potential violations
-  - **AI #2**: Deep context analysis with conversation history
-  - **AI #3**: Final verification with web search capabilities
-- **Configurable Sensitivity**: Four preset modes (lenient, balanced, strict, very_strict)
-- **Smart Context Analysis**: Analyzes up to 200 messages of conversation history
-- **Warning System**: Tracks user violations and warning history
-- **Full Punishment Suite**: warn, timeout (1h/24h), kick, temporary ban, permanent ban
+Core Features
+Three-Stage AI Moderation Pipeline
 
-### Admin Controls
-- Real-time AI behavior customization
-- Sensitivity preset switching
-- Individual AI agent configuration
-- Warning management (view/clear)
-- Comprehensive testing commands
+AI #1: Initial message screening (FLAG/PASS)
 
-### Safety Features
-- Multi-stage verification to prevent false positives
-- Context-aware decision making
-- Humor and sarcasm detection
-- Reply chain analysis
-- User warning history consideration
+AI #2: Contextual analysis and violation assessment
 
----
+AI #3: Verification with web search capabilities
+
+Complete Context Awareness
+
+Analyzes all messages within a 30-minute window around each message
+
+Cross-channel context tracking for severe violations
+
+Edit and deletion tracking with full audit history
+
+Advanced Content Analysis
+
+Text moderation with nuanced understanding of context, humor, and sarcasm
+
+Image analysis via Grok Vision for visual content violations
+
+Media attachment processing (images, videos, files)
+
+Multi-Server Architecture
+
+Isolated configurations per server
+
+Automatic log channel creation (#ambee-logs)
+
+Server-specific rules and AI behavior customization
+
+Setup & Configuration
+Essential Commands:
+
+!help - View all available commands and setup options
+
+!server_rules - Configure your server's specific rules that the AI will enforce
+
+!set_sensitivity - Adjust moderation strictness (lenient/balanced/strict/very_strict)
+
+!log_channel - Manage moderation logs
+
+Recommended Setup:
+
+Invite the bot to your server
+
+Use !server_rules to define your community guidelines
+
+Adjust sensitivity with !set_sensitivity as needed
+
+Review !help for additional customization options
+
+Administrative Controls
+Custom server rule integration
+
+Real-time moderation analytics
+
+Warning system with user history
+
+Per-server AI behavior tuning
+
+Technical Specifications
+Real-time message processing
+
+MongoDB/Cosmos DB backend
+
+Unlimited contextual message analysis within active time windows
+
+For support and documentation: https://discord.gg/zAA9XbWc2s
 
 ## 📋 Prerequisites
 
