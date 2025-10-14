@@ -727,8 +727,6 @@ This bot uses AI for moderation decisions. While the 3-stage pipeline minimizes 
 
 **Built with ❤️ by [jokukiller](https://github.com/jokukiller)**
 
-*Last Updated: 2025-10-06*
-
 ---
 
 **Want to see a feature?** Open a discussion on GitHub or join the support discord server (https://discord.gg/89rFga73cC) !
